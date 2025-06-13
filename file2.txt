@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Being nerdy all day
+=======
+Increased reference here
+>>>>>>> 2ab0b6ab76e4b77d66fba36493f213d2ffd46240
